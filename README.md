@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <h2> Secondary Staks 🛠 </h2>
 
 <img src="./images/technos/SecondaryDark.svg#gh-dark-mode-only" width="50%" />
-<img src="./images/technos/SecondaryLight.svg#gh-light-mode-only" width="50%" />
 
 ---
 
