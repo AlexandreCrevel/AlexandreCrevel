@@ -24,6 +24,7 @@ Beyond the code, I handle the project side too — technical architecture, specs
 **Maritime race tracking app** — imports tracking files, renders trajectories on an interactive Leaflet map, timeline navigation, marker system. The kind of app where the data tells the story if you get the UI right.
 
 **Energy dashboard for agricultural cooperatives** — consolidated three separate monitoring apps into one interface for multi-site energy consumption tracking. The hard part was making it simple.
+
 ---
 
 ## Side projects
