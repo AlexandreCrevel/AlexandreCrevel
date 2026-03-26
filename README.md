@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+# Hi, I'm Alexandre
 
 Former sysadmin turned fullstack developer. I spent a decade managing infrastructure before switching to web dev in 2022 — so when I build an interface, I already know what happens when it hits production.
 
