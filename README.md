@@ -76,7 +76,7 @@ Consolidated three separate monitoring apps into one interface for multi-site en
 
 ## Side projects
 
-**[Guitar Pro file parser](https://github.com/AlexandreCrevel/gp-parser)** — forked an existing Rust parser and extended its features using full Claude Code vibe coding. A Tauri + React UI layer is in progress, aimed at a proper cross-platform score reader.
+**[Guitar Pro file parser](https://github.com/AlexandreCrevel/gp-parser)** — started from an existing Rust parser, dug into the .gp binary format, and extended its feature set. A Tauri + React UI layer is in progress for a cross-platform score reader.
 
 *A website for a local business coming soon, once cleared for public release.*
 
